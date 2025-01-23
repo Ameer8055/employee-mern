@@ -76,8 +76,6 @@ const Login = () => {
           LOGIN
         </Button>
         <br />
-        <div>New User?</div>
-        <Link to={"/"}>SIGNUP</Link>
       </Box>
     </>
   );
